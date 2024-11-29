@@ -2,9 +2,10 @@
 
 <p>I'm kazs.</p>
 
-<p>I enjoy playing tennis, gaming, and watching TV shows. My skill level in Splatoon is around 2200-2300.
-I'm a huge Harry Potter fan, and I've visited Universal Studios Japan and Warner Bros. Studio TourTokyo in costume.
-As for artists, I'm really into Mrs. Green Apple and BE:FIRST. In 2024, I attended my first Mrs. Green Apple concert.</p>
+<p>I enjoy playing tennis🎾, gaming🎮, and watching TV shows📺.
+  My skill level in Splatoon🦑🐙 is around 2200-2300.
+  I'm a huge Harry Potter🪄 fan, and I've visited Universal Studios Japan🌍 and Warner Bros. Studio Tour Tokyo in costume🧙.
+  As for artists, I'm really into Mrs. Green Apple🍏 and BE:FIRST. In 2024, I attended my first Mrs. Green Apple concert.</p>
 
 <table>
   <tr width="100%">
